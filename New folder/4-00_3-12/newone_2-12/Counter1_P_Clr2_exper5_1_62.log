@@ -1,0 +1,117 @@
+Circuit: * C:\Users\vsaik\Desktop\vlsi project\newone_2-12\Counter1_P_Clr2_exper5_1_62.asc
+
+Limiting rise time of source v§clock2 to 2.5e-011
+Limiting fall time of source v§clock2 to 2.5e-011
+Limiting rise time of source v§clock1 to 2.5e-011
+Limiting fall time of source v§clock1 to 2.5e-011
+WARNING: Node X1:N002 is floating.
+WARNING: Node X1:N005 is floating.
+WARNING: Node X1:N007 is floating.
+WARNING: Node X1:N011 is floating.
+WARNING: Node X1:N008 is floating.
+WARNING: Node X1:N012 is floating.
+WARNING: Node X2:N002 is floating.
+WARNING: Node X2:N005 is floating.
+WARNING: Node X2:N007 is floating.
+WARNING: Node X2:N011 is floating.
+WARNING: Node X2:N008 is floating.
+WARNING: Node X2:N012 is floating.
+WARNING: Node X3:N002 is floating.
+WARNING: Node X3:N005 is floating.
+WARNING: Node X3:N007 is floating.
+WARNING: Node X3:N011 is floating.
+WARNING: Node X3:N008 is floating.
+WARNING: Node X3:N012 is floating.
+WARNING: Node X4:N002 is floating.
+WARNING: Node X4:N005 is floating.
+WARNING: Node X4:N007 is floating.
+WARNING: Node X4:N011 is floating.
+WARNING: Node X4:N008 is floating.
+WARNING: Node X4:N012 is floating.
+
+WARNING: Less than two connections to node X1:N002.  This node is used by M:X1:9.
+WARNING: Less than two connections to node X1:N005.  This node is used by M:X1:10.
+WARNING: Less than two connections to node X1:N007.  This node is used by M:X1:11.
+WARNING: Less than two connections to node X1:N011.  This node is used by M:X1:12.
+WARNING: Less than two connections to node X1:N008.  This node is used by M:X1:13.
+WARNING: Less than two connections to node X1:N012.  This node is used by M:X1:14.
+WARNING: Less than two connections to node X2:N002.  This node is used by M:X2:9.
+WARNING: Less than two connections to node X2:N005.  This node is used by M:X2:10.
+WARNING: Less than two connections to node X2:N007.  This node is used by M:X2:11.
+WARNING: Less than two connections to node X2:N011.  This node is used by M:X2:12.
+WARNING: Less than two connections to node X2:N008.  This node is used by M:X2:13.
+WARNING: Less than two connections to node X2:N012.  This node is used by M:X2:14.
+WARNING: Less than two connections to node X3:N002.  This node is used by M:X3:9.
+WARNING: Less than two connections to node X3:N005.  This node is used by M:X3:10.
+WARNING: Less than two connections to node X3:N007.  This node is used by M:X3:11.
+WARNING: Less than two connections to node X3:N011.  This node is used by M:X3:12.
+WARNING: Less than two connections to node X3:N008.  This node is used by M:X3:13.
+WARNING: Less than two connections to node X3:N012.  This node is used by M:X3:14.
+WARNING: Less than two connections to node X4:N002.  This node is used by M:X4:9.
+WARNING: Less than two connections to node X4:N005.  This node is used by M:X4:10.
+WARNING: Less than two connections to node X4:N007.  This node is used by M:X4:11.
+WARNING: Less than two connections to node X4:N011.  This node is used by M:X4:12.
+WARNING: Less than two connections to node X4:N008.  This node is used by M:X4:13.
+WARNING: Less than two connections to node X4:N012.  This node is used by M:X4:14.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+vernier = 0.5
+Gmin = 4.67527e-007
+vernier = 0.666667
+vernier = 0.888888
+Gmin = 8.30855e-008
+vernier = 1
+Gmin = 9.33136e-009
+vernier = 0.5
+Gmin = 1.56554e-009
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 1.56554e-009
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+.step temp=10°C
+.step temp=25°C
+.step temp=40°C
+
+Date: Fri Dec 03 15:23:41 2021
+Total elapsed time: 305.712 seconds.
+
+tnom = 27
+temp = 40
+method = modified trap
+totiter = 16368
+traniter = 10141
+tranpoints = 3081
+accept = 2867
+rejected = 214
+matrix size = 666
+fillins = 9802
+solver = Normal
+Thread vector: 608.6/270.7[4] 95.1/46.3[4] 55.4/36.7[4] 6.9/11.3[1]  2592/500
+Matrix Compiler1: 3.93 MB object code size  2682.9/1830.2/[1271.3]
+Matrix Compiler2: 250.47 KB object code size  42.2/44.9/[18.6]
+

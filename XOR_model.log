@@ -1,0 +1,45 @@
+Circuit: * C:\Users\mukul\Desktop\BITS Labs\VLSI\Project\XOR_model.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Nov 30 23:11:30 2021
+Total elapsed time: 0.561 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 27525
+traniter = 27496
+tranpoints = 10696
+accept = 10495
+rejected = 201
+matrix size = 17
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1.12 KB object code size  0.3/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.3/0.2
+

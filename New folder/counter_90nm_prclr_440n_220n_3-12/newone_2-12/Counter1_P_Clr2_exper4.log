@@ -1,0 +1,190 @@
+Circuit: * C:\Users\vsaik\Desktop\vlsi project\newone_2-12\Counter1_P_Clr2_exper4.asc
+
+Limiting rise time of source v§clock2 to 2.5e-011
+Limiting fall time of source v§clock2 to 2.5e-011
+Limiting rise time of source v§clock1 to 2.5e-011
+Limiting fall time of source v§clock1 to 2.5e-011
+WARNING: Node X1:N002 is floating.
+WARNING: Node X1:N005 is floating.
+WARNING: Node X1:N007 is floating.
+WARNING: Node X1:N011 is floating.
+WARNING: Node X1:N008 is floating.
+WARNING: Node X1:N012 is floating.
+WARNING: Node X2:N002 is floating.
+WARNING: Node X2:N005 is floating.
+WARNING: Node X2:N007 is floating.
+WARNING: Node X2:N011 is floating.
+WARNING: Node X2:N008 is floating.
+WARNING: Node X2:N012 is floating.
+WARNING: Node X3:N002 is floating.
+WARNING: Node X3:N005 is floating.
+WARNING: Node X3:N007 is floating.
+WARNING: Node X3:N011 is floating.
+WARNING: Node X3:N008 is floating.
+WARNING: Node X3:N012 is floating.
+WARNING: Node X4:N002 is floating.
+WARNING: Node X4:N005 is floating.
+WARNING: Node X4:N007 is floating.
+WARNING: Node X4:N011 is floating.
+WARNING: Node X4:N008 is floating.
+WARNING: Node X4:N012 is floating.
+
+WARNING: Less than two connections to node X1:N002.  This node is used by M:X1:9.
+WARNING: Less than two connections to node X1:N005.  This node is used by M:X1:10.
+WARNING: Less than two connections to node X1:N007.  This node is used by M:X1:11.
+WARNING: Less than two connections to node X1:N011.  This node is used by M:X1:12.
+WARNING: Less than two connections to node X1:N008.  This node is used by M:X1:13.
+WARNING: Less than two connections to node X1:N012.  This node is used by M:X1:14.
+WARNING: Less than two connections to node X2:N002.  This node is used by M:X2:9.
+WARNING: Less than two connections to node X2:N005.  This node is used by M:X2:10.
+WARNING: Less than two connections to node X2:N007.  This node is used by M:X2:11.
+WARNING: Less than two connections to node X2:N011.  This node is used by M:X2:12.
+WARNING: Less than two connections to node X2:N008.  This node is used by M:X2:13.
+WARNING: Less than two connections to node X2:N012.  This node is used by M:X2:14.
+WARNING: Less than two connections to node X3:N002.  This node is used by M:X3:9.
+WARNING: Less than two connections to node X3:N005.  This node is used by M:X3:10.
+WARNING: Less than two connections to node X3:N007.  This node is used by M:X3:11.
+WARNING: Less than two connections to node X3:N011.  This node is used by M:X3:12.
+WARNING: Less than two connections to node X3:N008.  This node is used by M:X3:13.
+WARNING: Less than two connections to node X3:N012.  This node is used by M:X3:14.
+WARNING: Less than two connections to node X4:N002.  This node is used by M:X4:9.
+WARNING: Less than two connections to node X4:N005.  This node is used by M:X4:10.
+WARNING: Less than two connections to node X4:N007.  This node is used by M:X4:11.
+WARNING: Less than two connections to node X4:N011.  This node is used by M:X4:12.
+WARNING: Less than two connections to node X4:N008.  This node is used by M:X4:13.
+WARNING: Less than two connections to node X4:N012.  This node is used by M:X4:14.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.33997e-010
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+Gmin = 0
+Gmin stepping aborted per request.
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source stepping aborted.
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 36.3755%
+Source Step = 36.4051%
+Source Step = 36.4347%
+Source Step = 36.4643%
+Source Step = 36.4938%
+Source Step = 36.5234%
+vernier = 0.00146484
+Source Step = 36.5619%
+Source Step = 36.6063%
+Source Step = 36.6507%
+Source Step = 36.6951%
+Source Step = 36.7395%
+vernier = 0.00219727
+Source Step = 36.795%
+Source Step = 36.8615%
+Source Step = 36.9281%
+Source Step = 36.9947%
+Source Step = 37.0613%
+vernier = 0.0032959
+Source Step = 37.1412%
+Source Step = 37.2411%
+Source Step = 37.3409%
+Source Step = 37.4408%
+Source Step = 37.5407%
+vernier = 0.00494385
+Source Step = 37.6555%
+Source Step = 37.8054%
+Source Step = 37.9552%
+Source Step = 38.105%
+Source Step = 38.2548%
+vernier = 0.00741577
+Source Step = 38.4196%
+Source Step = 38.6443%
+Source Step = 38.869%
+Source Step = 39.0938%
+Source Step = 39.3185%
+vernier = 0.0111237
+Source Step = 39.5544%
+Source Step = 39.8915%
+Source Step = 40.2286%
+Source Step = 40.5657%
+Source Step = 40.9028%
+Source Step = 41.2398%
+vernier = 0.0166855
+Source Step = 41.7455%
+Source Step = 42.2511%
+Source Step = 42.7567%
+Source Step = 43.2623%
+Source Step = 43.7679%
+vernier = 0.0250282
+Source Step = 44.5011%
+Source Step = 45.2595%
+Source Step = 46.018%
+Source Step = 46.7764%
+Source Step = 47.5348%
+vernier = 0.0375423
+Source Step = 48.5966%
+Source Step = 49.7343%
+Source Step = 50.8719%
+Source Step = 52.0096%
+Source Step = 53.1472%
+vernier = 0.0563135
+Source Step = 54.683%
+Source Step = 56.3895%
+Source Step = 58.096%
+Source Step = 59.8024%
+Source Step = 61.5089%
+vernier = 0.0844703
+Source Step = 63.7273%
+Source Step = 66.287%
+Source Step = 68.8467%
+Source Step = 71.4064%
+Source Step = 73.9661%
+vernier = 0.126705
+Source Step = 77.1658%
+Source Step = 81.0053%
+Source Step = 84.8449%
+Source Step = 88.6844%
+Source Step = 92.524%
+vernier = 0.190058
+Source Step = 97.1315%
+vernier = 0.0475145
+Source stepping aborted.
+Pseudo Transient failed in finding the operating point at 5.71614 µs.
+Trouble finding operating point....skipping operating point for Transient analysis.
+
+Date: Fri Dec 03 01:52:37 2021
+Total elapsed time: 18.395 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 27165
+traniter = 8642
+tranpoints = 2621
+accept = 2531
+rejected = 285
+matrix size = 666
+fillins = 1422
+solver = Normal
+Thread vector: 286.1/205.5[4] 74.2/27.1[4] 48.9/22.7[4] 6.4/10.7[1]  2592/500
+Matrix Compiler1: 212.21 KB object code size  102.3/68.9/[28.4]
+Matrix Compiler2: 106.27 KB object code size  61.6/43.2/[11.9]
+

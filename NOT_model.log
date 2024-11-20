@@ -1,0 +1,31 @@
+Circuit: * C:\Users\mukul\Desktop\BITS Labs\VLSI\Project\NOT_model.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+WARNING: Node INPUT is floating.
+
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Nov 30 22:15:59 2021
+Total elapsed time: 1.438 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 200042
+traniter = 200034
+tranpoints = 100018
+accept = 100018
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Matrix Compiler1: 118 bytes object code size  0.1/0.0/[0.0]
+Matrix Compiler2: 282 bytes object code size  0.0/0.0/[0.0]
+

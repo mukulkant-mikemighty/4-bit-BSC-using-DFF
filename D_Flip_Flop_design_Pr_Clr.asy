@@ -1,0 +1,22 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -160 -88 176 88
+WINDOW 0 8 -88 Bottom 2
+PIN -160 -64 LEFT 8
+PINATTR PinName Clock
+PINATTR SpiceOrder 1
+PIN -160 -32 LEFT 8
+PINATTR PinName Clock_complement
+PINATTR SpiceOrder 2
+PIN -160 0 LEFT 8
+PINATTR PinName CLR_Bar_Sig
+PINATTR SpiceOrder 3
+PIN -160 32 LEFT 8
+PINATTR PinName D_Input
+PINATTR SpiceOrder 4
+PIN -160 64 LEFT 8
+PINATTR PinName Preset_Sig
+PINATTR SpiceOrder 5
+PIN 176 0 RIGHT 8
+PINATTR PinName Out
+PINATTR SpiceOrder 6

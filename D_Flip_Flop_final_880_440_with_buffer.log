@@ -1,0 +1,42 @@
+Circuit: * C:\Users\mukul\Desktop\BITS Labs\VLSI\Project\D_Flip_Flop_final_880_440_with_buffer.asc
+
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+WARNING: Node N002 is floating.
+WARNING: Node N009 is floating.
+WARNING: Node N011 is floating.
+WARNING: Node N017 is floating.
+WARNING: Node N012 is floating.
+WARNING: Node N018 is floating.
+
+WARNING: Less than two connections to node N002.  This node is used by M9.
+WARNING: Less than two connections to node N009.  This node is used by M10.
+WARNING: Less than two connections to node N011.  This node is used by M11.
+WARNING: Less than two connections to node N017.  This node is used by M12.
+WARNING: Less than two connections to node N012.  This node is used by M13.
+WARNING: Less than two connections to node N018.  This node is used by M14.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Warning: Pd = 0 is less than W.
+Warning: Ps = 0 is less than W.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Dec 02 21:42:46 2021
+Total elapsed time: 0.585 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 21770
+traniter = 21737
+tranpoints = 10391
+accept = 10297
+rejected = 94
+matrix size = 26
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.98 KB object code size  0.6/0.4/[0.2]
+Matrix Compiler2: 2.77 KB object code size  0.3/0.6/[0.2]
+

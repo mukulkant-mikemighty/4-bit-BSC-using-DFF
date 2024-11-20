@@ -1,0 +1,98 @@
+Circuit: * C:\Users\mukul\Desktop\BITS Labs\VLSI\Project\New folder\counter_90nm_prclr_440n_220n_3-12\New folder (2)\Counter1_2_440_220_final3.asc
+
+Limiting rise time of source v§clock2 to 2.5e-011
+Limiting fall time of source v§clock2 to 2.5e-011
+Limiting rise time of source v§clock1 to 2.5e-011
+Limiting fall time of source v§clock1 to 2.5e-011
+WARNING: Node X1:N004 is floating.
+WARNING: Node X1:N008 is floating.
+WARNING: Node X1:N005 is floating.
+WARNING: Node X1:N009 is floating.
+WARNING: Node X2:N004 is floating.
+WARNING: Node X2:N008 is floating.
+WARNING: Node X2:N005 is floating.
+WARNING: Node X2:N009 is floating.
+WARNING: Node X3:N004 is floating.
+WARNING: Node X3:N008 is floating.
+WARNING: Node X3:N005 is floating.
+WARNING: Node X3:N009 is floating.
+WARNING: Node X4:N004 is floating.
+WARNING: Node X4:N008 is floating.
+WARNING: Node X4:N005 is floating.
+WARNING: Node X4:N009 is floating.
+
+WARNING: Less than two connections to node X1:N004.  This node is used by M:X1:11.
+WARNING: Less than two connections to node X1:N008.  This node is used by M:X1:12.
+WARNING: Less than two connections to node X1:N005.  This node is used by M:X1:13.
+WARNING: Less than two connections to node X1:N009.  This node is used by M:X1:14.
+WARNING: Less than two connections to node X2:N004.  This node is used by M:X2:11.
+WARNING: Less than two connections to node X2:N008.  This node is used by M:X2:12.
+WARNING: Less than two connections to node X2:N005.  This node is used by M:X2:13.
+WARNING: Less than two connections to node X2:N009.  This node is used by M:X2:14.
+WARNING: Less than two connections to node X3:N004.  This node is used by M:X3:11.
+WARNING: Less than two connections to node X3:N008.  This node is used by M:X3:12.
+WARNING: Less than two connections to node X3:N005.  This node is used by M:X3:13.
+WARNING: Less than two connections to node X3:N009.  This node is used by M:X3:14.
+WARNING: Less than two connections to node X4:N004.  This node is used by M:X4:11.
+WARNING: Less than two connections to node X4:N008.  This node is used by M:X4:12.
+WARNING: Less than two connections to node X4:N005.  This node is used by M:X4:13.
+WARNING: Less than two connections to node X4:N009.  This node is used by M:X4:14.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+Gmin = 2.03704e-009
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.33997e-010
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 15.1545%
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source Step = 100%
+Source stepping aborted.
+Pseudo Transient failed in finding the operating point at 6.75081 µs.
+Trouble finding operating point....skipping operating point for Transient analysis.
+
+Date: Fri Dec 03 22:56:37 2021
+Total elapsed time: 89.318 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 39377
+traniter = 8566
+tranpoints = 2603
+accept = 2520
+rejected = 594
+matrix size = 576
+fillins = 3403
+solver = Normal
+Thread vector: 517.8/240.0[8] 70.6/29.3[8] 17.7/11.1[8] 4.6/6.5[1]  2592/500
+Matrix Compiler1: 966.80 KB object code size  430.1/286.3/[114.3]
+Matrix Compiler2: 128.86 KB object code size  21.9/21.8/[13.0]
+

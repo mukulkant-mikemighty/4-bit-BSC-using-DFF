@@ -1,0 +1,110 @@
+Circuit: * C:\Users\vsaik\Desktop\vlsi project\newone_2-12\Counter1_P_Clr2_exper1.asc
+
+Limiting rise time of source v§clock2 to 2.5e-011
+Limiting fall time of source v§clock2 to 2.5e-011
+Limiting rise time of source v§clock1 to 2.5e-011
+Limiting fall time of source v§clock1 to 2.5e-011
+WARNING: Node X1:N002 is floating.
+WARNING: Node X1:N005 is floating.
+WARNING: Node X1:N007 is floating.
+WARNING: Node X1:N011 is floating.
+WARNING: Node X1:N008 is floating.
+WARNING: Node X1:N012 is floating.
+WARNING: Node X2:N002 is floating.
+WARNING: Node X2:N005 is floating.
+WARNING: Node X2:N007 is floating.
+WARNING: Node X2:N011 is floating.
+WARNING: Node X2:N008 is floating.
+WARNING: Node X2:N012 is floating.
+WARNING: Node X3:N002 is floating.
+WARNING: Node X3:N005 is floating.
+WARNING: Node X3:N007 is floating.
+WARNING: Node X3:N011 is floating.
+WARNING: Node X3:N008 is floating.
+WARNING: Node X3:N012 is floating.
+WARNING: Node X4:N002 is floating.
+WARNING: Node X4:N005 is floating.
+WARNING: Node X4:N007 is floating.
+WARNING: Node X4:N011 is floating.
+WARNING: Node X4:N008 is floating.
+WARNING: Node X4:N012 is floating.
+
+WARNING: Less than two connections to node X1:N002.  This node is used by M:X1:9.
+WARNING: Less than two connections to node X1:N005.  This node is used by M:X1:10.
+WARNING: Less than two connections to node X1:N007.  This node is used by M:X1:11.
+WARNING: Less than two connections to node X1:N011.  This node is used by M:X1:12.
+WARNING: Less than two connections to node X1:N008.  This node is used by M:X1:13.
+WARNING: Less than two connections to node X1:N012.  This node is used by M:X1:14.
+WARNING: Less than two connections to node X2:N002.  This node is used by M:X2:9.
+WARNING: Less than two connections to node X2:N005.  This node is used by M:X2:10.
+WARNING: Less than two connections to node X2:N007.  This node is used by M:X2:11.
+WARNING: Less than two connections to node X2:N011.  This node is used by M:X2:12.
+WARNING: Less than two connections to node X2:N008.  This node is used by M:X2:13.
+WARNING: Less than two connections to node X2:N012.  This node is used by M:X2:14.
+WARNING: Less than two connections to node X3:N002.  This node is used by M:X3:9.
+WARNING: Less than two connections to node X3:N005.  This node is used by M:X3:10.
+WARNING: Less than two connections to node X3:N007.  This node is used by M:X3:11.
+WARNING: Less than two connections to node X3:N011.  This node is used by M:X3:12.
+WARNING: Less than two connections to node X3:N008.  This node is used by M:X3:13.
+WARNING: Less than two connections to node X3:N012.  This node is used by M:X3:14.
+WARNING: Less than two connections to node X4:N002.  This node is used by M:X4:9.
+WARNING: Less than two connections to node X4:N005.  This node is used by M:X4:10.
+WARNING: Less than two connections to node X4:N007.  This node is used by M:X4:11.
+WARNING: Less than two connections to node X4:N011.  This node is used by M:X4:12.
+WARNING: Less than two connections to node X4:N008.  This node is used by M:X4:13.
+WARNING: Less than two connections to node X4:N012.  This node is used by M:X4:14.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+Gmin = 1.5325e-005
+Gmin = 1.6455e-006
+Gmin = 1.76685e-007
+Gmin = 1.89714e-008
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 6.21654e-009
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping aborted per request.
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source stepping aborted.
+Starting source stepping with srcstepmethod=1
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source stepping aborted.
+Pseudo Transient failed in finding the operating point at 5.27167 µs.
+Trouble finding operating point....skipping operating point for Transient analysis.
+
+Date: Fri Dec 03 01:04:08 2021
+Total elapsed time: 31.147 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 18588
+traniter = 12510
+tranpoints = 3851
+accept = 3279
+rejected = 630
+matrix size = 754
+fillins = 3885
+solver = Normal
+Thread vector: 699.4/312.1[4] 87.9/53.5[4] 47.2/24.8[4] 8.9/29.1[1]  2592/500
+Matrix Compiler1: 814.34 KB object code size  460.9/268.9/[129.2]
+Matrix Compiler2: 158.42 KB object code size  68.3/145.2/[22.7]
+

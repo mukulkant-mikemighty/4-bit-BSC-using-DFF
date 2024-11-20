@@ -1,0 +1,4 @@
+Circuit: * C:\Users\vsaik\Desktop\vlsi project\newone_2-12\Counter1_P_Clr2_exper6.asc
+
+Fatal Error: Unknown subcircuit called in:
+   xx1 n002 n004 n005 n003 n006 q0 d_flip_flop_880_440_buffer_pr_clr   1.8 
